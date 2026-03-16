@@ -1,4 +1,4 @@
-package com.example.water_tracker
+package com.pawaris.water_tracker
 
 import io.flutter.embedding.android.FlutterActivity
 
